@@ -1,4 +1,29 @@
-## Hi there 👋
+## Hi, I'm Matanat 👋
+
+## About Me
+I'm a Chemical Engineering graduate transitioning into Full-Stack Development. I'm passionate about building accessible technology, especially for people with disabilities.
+# Currently Learning
+- JavaScript 
+- React
+- Web Accessibility
+
+## Current Focus
+Building projects to develop my programming skills while working toward a career in assistive technology and human-computer interaction.
+
+## Projects
+🔨 Building: Portfolio website, to-do app, and exploring gesture-based interfaces
+
+## Goals for 2026
+- Contribute to open source projects
+- Build 10+ projects
+- Land my first developer role
+- Create tech that helps users with disabilities 
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/matanatkhalil/
+
+
 
 <!--
 **matanatkhalil/matanatkhalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
