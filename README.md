@@ -2,7 +2,7 @@
 
 ## About Me
 I'm a Chemical Engineering graduate transitioning into Full-Stack Development. I'm passionate about building accessible technology, especially for people with disabilities.
-# Currently Learning
+## Currently Learning
 - JavaScript 
 - React
 - Web Accessibility
