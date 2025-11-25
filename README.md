@@ -1,14 +1,14 @@
 ## Hi, I'm Matanat 👋
 
 ## About Me
-I'm a Chemical Engineering graduate transitioning into Full-Stack Development. I'm passionate about building accessible technology, especially for people with disabilities.
+I'm a Chemical Engineering graduate developing skills in Full-Stack Development. I'm passionate about building accessible technology, especially for people with disabilities.
 ## Currently Learning
 - JavaScript 
 - React
 - Web Accessibility
 
 ## Current Focus
-Building projects to develop my programming skills while working toward a career in assistive technology and human-computer interaction.
+Building projects to stengthen my programming abilities while working toward a career in assistive technology and human-computer interaction.
 
 ## Projects
 🔨 Building: Portfolio website, to-do app, and exploring gesture-based interfaces
