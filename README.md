@@ -21,7 +21,6 @@ Building projects to strengthen my programming abilities while working toward a 
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/matanatkhalil/
 Email: matanatkhalil.work@gmail.com
 
 
