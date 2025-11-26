@@ -1,4 +1,4 @@
-## Hi, I'm Matanat 👋
+## Hi, I'm Mətanət (Matanat) 👋
 
 ## About Me
 I'm a Chemical Engineering graduate developing skills in full-stack development. I'm passionate about building inclusive and accessible technology that works for every body and mind.
@@ -15,7 +15,7 @@ Building projects to strengthen my programming abilities while working toward a 
 
 ## Goals for 2026
 - Contribute to open source projects
-- Build 10+ meaningful projects
+- Complete 10+ new projects that I'm proud of
 - Land my first developer role
 - Build accessible and assistive tech that empowers everyone
 
